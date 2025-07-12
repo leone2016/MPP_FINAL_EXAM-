@@ -31,6 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Beverage.executor": "Run",
+    "Application.HospitalBilling.executor": "Run",
     "Application.Notification.executor": "Run",
     "Application.PropertyManagement.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -46,9 +47,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Notification">
+  <component name="RunManager" selected="Application.HospitalBilling">
     <configuration name="Beverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beverage" />
+      <module name="MPP_FINAL_EXAM-" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalBilling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HospitalBilling" />
       <module name="MPP_FINAL_EXAM-" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HospitalBilling" />
         <item itemvalue="Application.Notification" />
         <item itemvalue="Application.PropertyManagement" />
         <item itemvalue="Application.Beverage" />
@@ -91,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752334796465</updated>
-      <workItem from="1752334797497" duration="1891000" />
+      <workItem from="1752334797497" duration="2508000" />
     </task>
     <servers />
   </component>
