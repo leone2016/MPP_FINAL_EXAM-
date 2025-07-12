@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40ffa776-10db-4558-91d6-b9273a9da2c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40ffa776-10db-4558-91d6-b9273a9da2c5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Beverage.executor": "Run",
+    "Application.Notification.executor": "Run",
     "Application.PropertyManagement.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -47,9 +46,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PropertyManagement">
+  <component name="RunManager" selected="Application.Notification">
     <configuration name="Beverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beverage" />
+      <module name="MPP_FINAL_EXAM-" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Notification" />
       <module name="MPP_FINAL_EXAM-" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Notification" />
         <item itemvalue="Application.PropertyManagement" />
         <item itemvalue="Application.Beverage" />
       </list>
@@ -84,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752334796465</updated>
-      <workItem from="1752334797497" duration="1327000" />
+      <workItem from="1752334797497" duration="1891000" />
     </task>
     <servers />
   </component>
